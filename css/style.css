@@ -64,3 +64,10 @@ a{color:var(--curtain)}a:focus-visible,button:focus-visible{outline:3px solid va
 .qcard p{font:italic 600 27px/1.35 "Cormorant Garamond",Georgia,serif;margin:0 0 14px}
 .qcard cite{font-style:normal;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--brown)}
 .access{background:var(--sand);border-radius:22px;padding:22px 26px;margin:28px 0}.access p{margin:0 0 8px}
+.quotes{grid-template-columns:1fr;gap:18px;margin:20px 0 0}
+.qcard{color:#fff;padding:46px 28px 22px;min-height:150px;overflow:hidden}
+.qcard.q1{background:linear-gradient(rgba(20,14,8,.28),rgba(20,14,8,.6)),url(../images/quote-sun.jpg) center 45%/cover}
+.qcard.q2{background:linear-gradient(rgba(20,14,8,.28),rgba(20,14,8,.6)),url(../images/quote-mist.jpg) center 35%/cover}
+.qcard::before{color:rgba(255,255,255,.6)}
+.qcard p{font-size:26px;text-shadow:0 2px 10px rgba(0,0,0,.75)}
+.qcard cite{color:#F3EADB;text-shadow:0 2px 8px rgba(0,0,0,.75)}

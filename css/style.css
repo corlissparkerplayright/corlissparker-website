@@ -36,11 +36,11 @@ a{color:var(--curtain)}a:focus-visible,button:focus-visible{outline:3px solid va
 .notice{font-size:15px;color:var(--brown);border-bottom:1px solid var(--tan);padding-bottom:12px;margin-bottom:24px}
 .header{border-radius:0 0 28px 28px;box-shadow:0 4px 14px rgba(43,32,23,.12)}
 .nav ul{border-radius:16px;box-shadow:0 8px 22px rgba(43,32,23,.18)}
-.page-header{background:linear-gradient(rgba(43,32,23,.5),rgba(43,32,23,.62)),url(../images/ocean.jpg) center 60%/cover;color:var(--paper);border-radius:0 0 28px 28px;padding:56px 0 34px}
+.page-header{background:linear-gradient(rgba(43,32,23,.5),rgba(43,32,23,.62)),url(../images/ocean.jpg) center 27%/cover;color:var(--paper);border-radius:0 0 28px 28px;padding:56px 0 34px}
 .page-header a{color:var(--sand)}
 .portrait{width:100%;object-fit:cover;border-radius:28px;display:block;box-shadow:0 10px 28px rgba(43,32,23,.22)}
 .btn{border-radius:999px;padding:11px 26px}
-.band{border-radius:28px;color:var(--paper);text-align:center;padding:56px 24px;margin:40px 0;background:linear-gradient(rgba(43,32,23,.45),rgba(43,32,23,.65)),url(../images/city.jpg) center 40%/cover}
+.band{border-radius:28px;color:var(--paper);text-align:center;padding:56px 24px;margin:40px 0;background:linear-gradient(rgba(43,32,23,.45),rgba(43,32,23,.65)),url(../images/city.jpg) center 86%/cover}
 .band h2{font-size:40px}.band .btn{background:var(--paper);color:var(--ink)}
 .quote{background:var(--sand);border-radius:0 22px 22px 0}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:28px}
@@ -52,8 +52,8 @@ a{color:var(--curtain)}a:focus-visible,button:focus-visible{outline:3px solid va
 .pagination a{border-radius:999px;min-width:42px;text-align:center}
 .reading .lead{font-size:20px}
 .footer{border-radius:28px 28px 0 0}
-.page-header{background:linear-gradient(rgba(43,32,23,.12),rgba(43,32,23,.35)),url(../images/ocean.jpg) center 60%/cover;text-shadow:0 2px 8px rgba(0,0,0,.55)}
-.band{background:linear-gradient(rgba(43,32,23,.12),rgba(43,32,23,.38)),url(../images/city.jpg) center 40%/cover;text-shadow:0 2px 8px rgba(0,0,0,.55)}
+.page-header{background:linear-gradient(rgba(43,32,23,.12),rgba(43,32,23,.35)),url(../images/ocean.jpg) center 27%/cover;text-shadow:0 2px 8px rgba(0,0,0,.55)}
+.band{background:linear-gradient(rgba(43,32,23,.12),rgba(43,32,23,.38)),url(../images/city.jpg) center 86%/cover;text-shadow:0 2px 8px rgba(0,0,0,.55)}
 .cover.o{background:linear-gradient(rgba(43,32,23,.1),rgba(43,32,23,.4)),url(../images/ocean.jpg) center/cover}
 .cover.c{background:linear-gradient(rgba(43,32,23,.1),rgba(43,32,23,.4)),url(../images/city.jpg) center/cover}
 .cover{text-shadow:0 2px 8px rgba(0,0,0,.65)}.cover small{color:#fff}
